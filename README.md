@@ -1,8 +1,14 @@
 # Fish ’n Chimps
+
+![Title Screen](Assets/Backgrounds/StartBackground.png)
+
 ## About
 This is the source code for *Fish ’n Chimps*, the first game developed by *Banana Byte Entertainment*!
 
 This game is an action-packed aquatic adventure where you, the player, control a monkey navigating through dangerous waters. With intuitive controls and vibrant visuals, this game challenges your reflexes and planning as you swim, collect and craft power-ups, and attack your way through enemies to make the dish of your dreams - a Kraken!
+
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
 
 Play the game here: \
 👉 [itch.io page](https://banana-byte-entertainment.itch.io/fish-n-chimps)
@@ -26,6 +32,10 @@ To explore or modify the game:
 
 ## Team
 This project was made by the *Banana Byte Entertainment* team and published on itch.io.
+
+<a href="https://github.com/Banana-Byte-Entertainment/Fish-n-Chimps/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Banana-Byte-Entertainment/Fish-n-Chimps" alt="contrib.rocks image" />
+</a>
 
 ## License
 This project is provided for educational and portfolio purposes. Please [contact the authors](mailto:bananabyteentertainment@gmail.com) for inquiries about reuse or distribution.
